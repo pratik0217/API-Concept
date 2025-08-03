@@ -43,3 +43,56 @@ Integrate API & Display Data
 - get API data store in State.
 - And console.log(state) for checking API working properly.
 - API data render on UI using Map.
+
+# JSON Server
+<img width="704" height="303" alt="Screenshot 2025-08-03 211346" src="https://github.com/user-attachments/assets/92a7b915-9a05-494d-b42a-16966e4106d6" />
+Install JSON server 
+
+Following Step for Installation
+- npm install json-server
+- create db.json
+- run the db.json file ( syntax - npx json-server db.json ).
+- API test on the thounder clinet.
+- create own API like users in db.json
+<img width="1156" height="781" alt="Screenshot 2025-08-03 235822" src="https://github.com/user-attachments/assets/52a1689d-8e56-4ad6-9b10-eee7e1e4b6b0" />
+
+- then testing create own API in thounder client.
+<img width="776" height="340" alt="Screenshot 2025-08-04 000027" src="https://github.com/user-attachments/assets/e3adc3db-a665-4a51-8254-2f4c683c5673" />
+
+# Intergrate JSON Server API & POST method API 
+- This chapter like mini-project.
+- Create navigation for Home and user add.
+- Using Routes, route and aslo app function wrap in a BrowserRouter.
+- make inpur for add user on list.
+- added user show on UI.
+
+Integrate Post Method API 
+- New user add and store using POST Method.
+- show final UI.
+
+Code - 
+
+<img width="1353" height="806" alt="Screenshot 2025-08-04 021134" src="https://github.com/user-attachments/assets/44aeb0ce-ae8b-440d-8759-f3787adf3221" />
+
+<img width="1330" height="907" alt="Screenshot 2025-08-04 021203" src="https://github.com/user-attachments/assets/6cd52e2f-c3e5-43e4-9617-20725083e64b" />
+
+<img width="1329" height="439" alt="Screenshot 2025-08-04 021223" src="https://github.com/user-attachments/assets/4f9837ac-9e5f-4c0f-b8ee-ce010e9b5866" />
+
+<img width="1842" height="910" alt="Screenshot 2025-08-04 021342" src="https://github.com/user-attachments/assets/b1827cf4-5f44-43c1-b694-10be97c71f28" />
+
+<img width="1844" height="395" alt="Screenshot 2025-08-04 021405" src="https://github.com/user-attachments/assets/f96d6f8a-6757-4a5d-aa43-b1293849f250" />
+
+<img width="781" height="915" alt="Screenshot 2025-08-04 021642" src="https://github.com/user-attachments/assets/4a149d39-23ac-4ed9-acbc-18c28c1312f2" />
+
+<img width="769" height="825" alt="Screenshot 2025-08-04 021708" src="https://github.com/user-attachments/assets/a6f066ba-feb9-438f-8d79-1418eb572629" />
+
+<img width="780" height="178" alt="Screenshot 2025-08-04 021723" src="https://github.com/user-attachments/assets/51c6c855-eb67-4b6f-ba18-cb4e42682106" />
+
+UI 
+<img width="1919" height="969" alt="Screenshot 2025-08-04 021934" src="https://github.com/user-attachments/assets/743734a1-a030-4d49-9bd8-f1cf07313782" />
+
+<img width="1919" height="909" alt="Screenshot 2025-08-04 022108" src="https://github.com/user-attachments/assets/dfe5c372-8ca2-4385-9a6f-0168648066d3" />
+
+<img width="1919" height="552" alt="Screenshot 2025-08-04 022132" src="https://github.com/user-attachments/assets/5a80f307-e7af-4c2f-84cd-6a323b6c809d" />
+
+<img width="1919" height="40" alt="Screenshot 2025-08-04 022215" src="https://github.com/user-attachments/assets/200bba6b-e593-4090-bea6-6e40a1b479ba" />
