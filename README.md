@@ -96,3 +96,21 @@ UI
 <img width="1919" height="552" alt="Screenshot 2025-08-04 022132" src="https://github.com/user-attachments/assets/5a80f307-e7af-4c2f-84cd-6a323b6c809d" />
 
 <img width="1919" height="40" alt="Screenshot 2025-08-04 022215" src="https://github.com/user-attachments/assets/200bba6b-e593-4090-bea6-6e40a1b479ba" />
+
+# Integrate API for delete Method 
+<img width="783" height="264" alt="Screenshot 2025-08-04 022547" src="https://github.com/user-attachments/assets/f36d147c-03f6-4640-9f95-fa0a0b04411f" />
+
+- Already existed user data delete using Delete method.
+- Delete method declare with API id then successfully work it.
+
+<img width="1535" height="492" alt="Screenshot 2025-08-04 024152" src="https://github.com/user-attachments/assets/c3caccb6-7f4d-4619-bf93-c176f0d8c91f" />
+
+<img width="1537" height="854" alt="Screenshot 2025-08-04 024215" src="https://github.com/user-attachments/assets/4b54db9d-4194-4464-ba01-661a5ec5f8b6" />
+
+UI 
+
+<img width="1899" height="910" alt="Screenshot 2025-08-04 024444" src="https://github.com/user-attachments/assets/6745f6d1-e429-4333-91c5-e44a10b18ed5" />
+
+<img width="1902" height="807" alt="Screenshot 2025-08-04 024504" src="https://github.com/user-attachments/assets/60632951-9726-4dfa-890f-017e8895990c" />
+
+<img width="1900" height="832" alt="Screenshot 2025-08-04 024526" src="https://github.com/user-attachments/assets/1025762e-96bf-4327-a221-05d884e4d951" />
