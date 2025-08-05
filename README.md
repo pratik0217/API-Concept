@@ -114,3 +114,21 @@ UI
 <img width="1902" height="807" alt="Screenshot 2025-08-04 024504" src="https://github.com/user-attachments/assets/60632951-9726-4dfa-890f-017e8895990c" />
 
 <img width="1900" height="832" alt="Screenshot 2025-08-04 024526" src="https://github.com/user-attachments/assets/1025762e-96bf-4327-a221-05d884e4d951" />
+
+#  Make Page for Edit User details, Populate data in input fields & Update data with PUT API 
+<img width="1411" height="556" alt="Screenshot 2025-08-04 151557" src="https://github.com/user-attachments/assets/a9976bcf-3550-4fba-a040-ac77c222aa5c" />
+
+<img width="740" height="280" alt="Screenshot 2025-08-05 123744" src="https://github.com/user-attachments/assets/6161590b-cd73-4561-ba29-e0c46ea388f6" />
+
+<img width="760" height="281" alt="Screenshot 2025-08-05 125717" src="https://github.com/user-attachments/assets/582bc370-528e-45d0-bf2c-8d94a3e7a927" />
+
+# Simple Validation in React.js & Validation with useActionState 
+<img width="777" height="271" alt="Screenshot 2025-08-05 131007" src="https://github.com/user-attachments/assets/6abdf7a0-db1b-434f-b8b2-2d341ac44b2b" />
+
+Note - 
+- regex = /^[a-z0-9]+$/i;
+- regex.test();
+
+<img width="730" height="270" alt="Screenshot 2025-08-05 202820" src="https://github.com/user-attachments/assets/bc58cda6-38f1-4646-8d47-263c829efbf1" />
+
+# useReducer Hook 
