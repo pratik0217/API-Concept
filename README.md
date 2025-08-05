@@ -132,3 +132,13 @@ Note -
 <img width="730" height="270" alt="Screenshot 2025-08-05 202820" src="https://github.com/user-attachments/assets/bc58cda6-38f1-4646-8d47-263c829efbf1" />
 
 # useReducer Hook 
+<img width="525" height="263" alt="Screenshot 2025-08-05 204059" src="https://github.com/user-attachments/assets/9b719a7c-8cfc-465d-99a4-c039a7909b3d" />
+
+# Lazy Loading in React
+<img width="712" height="297" alt="Screenshot 2025-08-05 221150" src="https://github.com/user-attachments/assets/47dfd20f-aae1-40a3-ad23-2a98c1673bc5" />
+
+# 'use' API in React 
+<img width="706" height="245" alt="Screenshot 2025-08-05 224544" src="https://github.com/user-attachments/assets/7b29fd80-29d1-4049-97e7-fca7fc434a16" />
+
+what is use API - 
+<img width="781" height="293" alt="Screenshot 2025-08-05 224857" src="https://github.com/user-attachments/assets/64c8c768-c2c5-4bae-b3b7-96416d4c230c" />
