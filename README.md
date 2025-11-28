@@ -45,12 +45,27 @@ Integrate API & Display Data
 - API data render on UI using Map.
 
 # JSON Server
+What is JSON ? 
+- JSON stand for JavaScript Object Notation.
+- JSON is plain text format storing data and transporting data.
+- JSON is useds send, receive & Store data.
+<br>
+Why is JSON ?
+- JSON is make it easy to send and store data between computers
+- JSON is text only and language independent
+<br>
+JSON and JavaScript
+- The JSON format is syntactically identical to the code for creating JavaScript objects.
+- Because of this, a JavaScript program can easily convert JSON data into native JavaScript objects.
+- JavaScript has a built in function for converting JSON strings into JavaScript objects:
+      -JSON.parse()
+- JavaScript also has a built in function for converting an object into a JSON string:
+      -JSON.stringify()
 <img width="704" height="303" alt="Screenshot 2025-08-03 211346" src="https://github.com/user-attachments/assets/92a7b915-9a05-494d-b42a-16966e4106d6" />
 Install JSON server 
-
 Following Step for Installation
 - npm install json-server
-- create db.json
+- create db.json (make db.json file )
 - run the db.json file ( syntax - npx json-server db.json ).
 - API test on the thounder clinet.
 - create own API like users in db.json
@@ -142,3 +157,4 @@ Note -
 
 what is use API - 
 <img width="781" height="293" alt="Screenshot 2025-08-05 224857" src="https://github.com/user-attachments/assets/64c8c768-c2c5-4bae-b3b7-96416d4c230c" />
+
